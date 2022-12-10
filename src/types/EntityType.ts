@@ -1,0 +1,1 @@
+export type EntityType = Record<"__ra_resource_name", string>;
